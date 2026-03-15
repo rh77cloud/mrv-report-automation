@@ -1,7 +1,6 @@
 """Main entry point for the MRV report automation Streamlit app."""
 
 from pathlib import Path
-
 import streamlit as st
 
 
